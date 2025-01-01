@@ -1,0 +1,16 @@
+*
+!*/
+
+!*.*py
+!*.*ml
+!*file
+
+__pycache__/
+*.egg-info/
+
+!*.ipynb
+.ipynb_checkpoints/
+
+!*.md
+!*.rst
+_build/
