@@ -1,4 +1,6 @@
 # 2024 年諾貝爾物理學獎教程
+[![en](https://img.shields.io/badge/lang-en-lightgray.svg)](README.md)
+[![zh-Hant](https://img.shields.io/badge/lang-zh--Hant-green.svg)](README.zh-Hant.md)
 
 2024 年諾貝爾物理學獎由 **John J. Hopfield 教授**（普林斯頓大學）和 **Geoffrey E. Hinton 教授**（多倫多大學）共同獲得，以表彰他們在「奠定並推動利用人工神經網絡進行機器學習」所作出的貢獻。
 

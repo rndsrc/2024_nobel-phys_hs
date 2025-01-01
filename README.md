@@ -1,4 +1,6 @@
 # Exploring the 2024 Nobel Prize in Physics
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![zh-Hant](https://img.shields.io/badge/lang-zh--Hant-lightgray.svg)](README.zh-Hant.md)
 
 The 2024 Nobel Prize in Physics was awarded to
 **Prof. John J. Hopfield** (Princeton University) and
