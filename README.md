@@ -8,7 +8,7 @@ The 2024 Nobel Prize in Physics was awarded to
 for their "foundational discoveries and inventions that enable
 machine learning with artificial neural networks."
 
-This repository hosts **Jupyter Notebooks** designed to guide students
+This repository hosts [**Jupyter Notebooks**](Hopfield.ipynb) designed to guide students
 in exploring and understanding the groundbreaking work that earned
 this prestigious recognition.
 Through interactive, hands-on activities, students can delve into the
